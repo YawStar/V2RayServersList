@@ -1,4 +1,8 @@
-Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
+V2Ray Proxy list updated at 2026-03-25 02:07:01 GMT+6:30
+Website=https://yawstar.blogspot.com
+
+Fromat: CountryFlag|CONFIG|ResponseTime|CountryCode
+
 🇩🇪|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#🇩🇪 [YS_Dance-Box]|1600 ms|DE
 🇺🇸|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇺🇸 [YS_Dance-Box]|1760 ms|US
 🇫🇮|vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#🇫🇮 [YS_Dance-Box]|706 ms|FI
@@ -13,13 +17,13 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇭🇰|vmess://eyJhZGQiOiJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLCJpZCI6ImVmMTY3OTg2LWQxNTQtNDQwOS04OGIxLTc1N2VmYjZhZTgyMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9|368|HK
 🇦🇺|trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=0&sni=enhanced-crayfish.rooster465.autos#🇦🇺 [YS_Dance-Box]|637|AU
 🇰🇷|trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#🇰🇷 [YS_Dance-Box]|434|KR
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1HQiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==|506|GB
+🇬🇧|vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1HQiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==|506|GB
 🇭🇰|vmess://eyJhZGQiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzEwMTI3Ny40dTltYS5pY3UiLCJpZCI6IjZlYTQ4ZGZlLTdkZTItNDVkYy05MjY3LWQ0ZDllZmZhZDlmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im4xNzUzMTAxMjc3LjR1OW1hLmljdSJ9|380|HK
 🇳🇱|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🇳🇱 [YS_Dance-Box]|414|NL
 🇳🇱|ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#🇳🇱 [YS_Dance-Box]|409|NL
 🇬🇧|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🇬🇧 [YS_Dance-Box]|408|GB
 🇿🇦|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 [YS_Dance-Box]|582|ZA
-vmess://eyJhZGQiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJpZCI6IjM3YjIwNjM5LTBkNmUtNDZmMi05ZGI1LTQ3MjIwMWIxMGNkZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9|418|HK
+🇭🇰|vmess://eyJhZGQiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJpZCI6IjM3YjIwNjM5LTBkNmUtNDZmMi05ZGI1LTQ3MjIwMWIxMGNkZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9|418|HK
 🇳🇱|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🇳🇱 [YS_Dance-Box]|603|NL
 🇿🇦|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 [YS_Dance-Box]|597|ZA
 🇰🇷|trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#🇰🇷 [YS_Dance-Box]|761|KR
@@ -68,12 +72,3 @@ vmess://eyJhZGQiOiJuZXZhLmF6bGFuLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 🇧🇬|ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 [YS_Dance-Box]|637|BG
 🇨🇭|ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 [YS_Dance-Box]|560|CH
 🇺🇸|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇺🇸 [YS_Dance-Box]|1074|US
-
-
-
-
-
-
-
-
-
