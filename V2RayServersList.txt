@@ -5,7 +5,7 @@ Fromat: CountryFlag|CONFIG|ResponseTime|CountryCode
 
 🇩🇪|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#🇩🇪 [YS_Dance-Box]|1600|DE
 🇺🇸|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇺🇸 [YS_Dance-Box]|1760|US
-🇫🇮|vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#🇫🇮 [YS_Dance-Box]|706 ms|FI
+🇫🇮|vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#🇫🇮 [YS_Dance-Box]|706|FI
 🇩🇪|vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-gr-cf.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#🇩🇪 [YS_Dance-Box]|706|DE
 🇩🇪|vless://fdc8d6e7-9520-4580-aefb-50185b539bdd@de12.frostbot.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&security=reality&sid=b9605803fb4b&sni=github.com&type=tcp#🇩🇪 [YS_Dance-Box]|623|DE
 🇵🇱|vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#🇵🇱 [YS_FreeKeys]|682|PL
