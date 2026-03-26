@@ -69,6 +69,7 @@ Fromat: CountryFlag|CONFIG|ResponseTime|CountryCode
 🇱🇻|vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&security=reality&sid=772e&sni=yahoo.com&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇱🇻 [YS_Dance-Box]|1113|
 🇩🇪|vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-gr-cf.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#🇩🇪 [YS_Dance-Box]|612|DE
 🇧🇾|vless://1401682c-0e47-4eb9-b5ab-98243655be9b@by.telega.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&security=reality&sid=e31b66be0cd67c8b&sni=www.apple.com&type=tcp#🇧🇾 [YS_Dance-Box]|778|BY
+🇯🇵|ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ1lTTU11UHc1UjFlYjZOOG12UE01@japan2.soelinaung.online:63083/?outline=1#🇯🇵 [YS_Dance-Box]|235|JP
 🇧🇬|ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 [YS_Dance-Box]|637|BG
 🇨🇭|ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 [YS_Dance-Box]|560|CH
 🇺🇸|ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇺🇸 [YS_Dance-Box]|1074|US
